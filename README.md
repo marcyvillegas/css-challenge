@@ -1,5 +1,5 @@
 # css-challenge 🎲
-This is my submission to a CSS Challenge in Bryl's discord server. A layout and font has been provided and we need to copy it using any CSS frameworks.
+This is my submission to a CSS Challenge in Bryl's discord server. A layout and font (Poppins) has been provided and we need to copy it using any CSS frameworks.
 
 I used pure CSS only but it is still not yet responsive.
 
